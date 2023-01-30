@@ -32,7 +32,7 @@ header{
 }
 
 .IMGandTITLE .imgg{
-    overflow: hidden;
+    overflow: hidden; 
     width: 270px;
     height: 270px;
     border-radius: 100%;
